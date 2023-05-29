@@ -1,0 +1,47 @@
+.ok{
+    background-color: #0b7ef2;
+    width: 600px;
+    height: 300px;
+    border-radius: 15px;
+    margin-left: 500px;
+    
+}
+input{
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(227, 237, 231);
+    border-style: none;
+    margin-left: 80px;
+    
+}
+
+label{
+    font-family: sans-serif;
+    font-size: bold;
+    font-size: 20px;
+    color: #b8f20b;
+    margin-left: 80px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    margin-left: 80px;
+    border-style: none;
+    margin-top: 20px;
+}
+p{
+    background-color: rgb(251, 251, 111);
+    height: 30px;
+    width: 400px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border-radius:3px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
